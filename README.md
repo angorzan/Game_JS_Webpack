@@ -1,0 +1,1 @@
+Keyboard control game, written in JavaScript, using object-oriented programming and webpack during Coder's Lab bootcamp.
